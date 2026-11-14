@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Berke Keskin 👋
 
-<!--
-**berkekeskin8/berkekeskin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student at **Politecnico di Torino**, originally from Türkiye.
 
-Here are some ideas to get you started:
+### What I work with
+- **Languages:** C, Python, SQL (MySQL), MATLAB
+- **Tools:** Git, Linux (Ubuntu), Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm learning
+- Embedded systems and automotive software
+- Operating systems, algorithms and data structures
+
+### Currently building
+- 🚗 *(first project coming soon)*
+
+### Spoken languages
+- Turkish (native)
+- English (fluent, C1, IELTS 7)
+- Italian (basic)
+
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/berke-keskin-7025a5298/)
